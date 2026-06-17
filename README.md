@@ -24,7 +24,7 @@ The Power BI report is divided into 4 main views for seamless navigation and tar
 ### 1. Index Page (Landing View)
 * A visually striking, branded splash screen that introduces the project and serves as the main navigation portal.
 
-![Index Page](c81597f0-ef0f-4fe6-afb3-b8abebd1ddc1)
+![Index Page](https://github.com/hardikkumar9675-pixel/zomoto-dashboard/blob/main/welcome-Index.png)
 
 ---
 
