@@ -34,7 +34,7 @@ The Power BI report is divided into 4 main views for seamless navigation and tar
 * **Dynamic Filters:** Built-in toggles to view data by *Amount* or *Quantity*, and N-tier filters (Top 5, Top 10, Top 20, etc.).
 * **Sales Trend:** A line chart showcasing the revenue trajectory over the years (2017–2020), highlighting a peak in 2018 at 0.41Bn.
 
-![Overview Dashboard](fab9a0ce-7fb3-45d4-aee7-a5314efb6f5e)
+![Overview Dashboard](https://github.com/hardikkumar9675-pixel/zomoto-dashboard/blob/main/Overview%20dashboard.png)
 
 ---
 
