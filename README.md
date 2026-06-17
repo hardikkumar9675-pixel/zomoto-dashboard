@@ -52,7 +52,7 @@ The Power BI report is divided into 4 main views for seamless navigation and tar
 * **Top Performing Cities:** Bar charts ranking cities based on *Sales*, *Ratings*, and *Total Users*.
 * **Granular Data Table:** A breakdown matrix displaying explicit *Order Count* and *Sales Value* for specific localities (e.g., Abids & Koti Hyderabad, Adajan Surat, etc.).
 
-![City Performance](a8a45562-5c20-4573-bf79-c0b0a3f4a141)
+![City Performance](https://github.com/hardikkumar9675-pixel/zomoto-dashboard/blob/main/City-Performance.png)
 
 ---
 
