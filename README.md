@@ -43,7 +43,7 @@ The Power BI report is divided into 4 main views for seamless navigation and tar
 * **Demographic Analysis:** An age-distribution bar chart displaying which age groups are driving the maximum order volume.
 * **Engagement KPIs:** Highlights active users vs. total user base.
 
-![User Performance](f1e93646-a725-4fe2-ad3a-877dcd212669)
+![User Performance](https://github.com/hardikkumar9675-pixel/zomoto-dashboard/blob/main/User-Performance.png)
 
 ---
 
